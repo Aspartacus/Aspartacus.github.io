@@ -1,6 +1,6 @@
 # Aspartacus.github.io
 ---
-title: "Readme"
+Readme 
 ---
 This is the readme file for this blog/website
 
