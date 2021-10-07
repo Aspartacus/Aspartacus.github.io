@@ -9,5 +9,7 @@ This is the second post.
 [This is a Homepage link](http://aspartacus.github.io)
 
 -Red
+
 -Blue
+
 -Green
