@@ -8,8 +8,8 @@ This is the second post.
 
 [This is a Homepage link](http://aspartacus.github.io)
 
--Red
+Here is a list
+* Red
+* Blue
+* Green
 
--Blue
-
--Green
