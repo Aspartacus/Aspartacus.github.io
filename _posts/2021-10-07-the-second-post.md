@@ -7,3 +7,5 @@ This is the second post.
 **This is Bold**
 
 [This is a Homepage link](http://aspartacus.github.io)
+
+This is blue! * Blue
