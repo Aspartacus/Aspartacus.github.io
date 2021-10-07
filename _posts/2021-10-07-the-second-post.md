@@ -8,4 +8,6 @@ This is the second post.
 
 [This is a Homepage link](http://aspartacus.github.io)
 
-This is blue! * Blue
+-Red
+-Blue
+-Green
